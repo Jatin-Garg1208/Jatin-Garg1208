@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jatin-Garg1208
 - 👀 I’m interested in data science 
-- 🌱 I’m currently learning dat analysis
+- 🌱 I’m currently learning data analysis
 - 📫 How to reach me jatin1208garg@gmail.com
 
 <!---
